@@ -85,6 +85,8 @@ public class Ficha_Personagem {
         }
         if (Raca == 4) {
             this.Raca = "Meio-Orc";
+            BrFo = 2;
+            BrCo = 1;
         }
 
         this.Forc = Forct + BrFo;
